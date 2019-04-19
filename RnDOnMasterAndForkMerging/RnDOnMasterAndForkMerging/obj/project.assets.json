@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\MainBranchFork\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging.csproj",
       "projectName": "RnDOnMasterAndForkMerging",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\MainBranchFork\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\MainBranchFork\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\RnDOnMasterAndForkMerging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
