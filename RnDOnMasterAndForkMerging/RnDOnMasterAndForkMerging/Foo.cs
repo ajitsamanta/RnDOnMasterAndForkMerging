@@ -6,6 +6,8 @@ namespace RnDOnMasterAndForkMerging
 {
     public class Foo
     {
+        public string Id { get; set; }
+
         public void SayHi(string toHimHer)
         {
             if (!string.IsNullOrEmpty(toHimHer))
