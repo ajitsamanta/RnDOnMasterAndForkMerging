@@ -13,7 +13,6 @@ C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndFork
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\bin\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.runtimeconfig.dev.json
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\bin\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.dll
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\bin\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.pdb
-C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\obj\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.csprojAssemblyReference.cache
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\obj\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\obj\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.AssemblyInfoInputs.cache
 C:\Users\hp\source\repos\MainBranch\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\RnDOnMasterAndForkMerging\obj\Debug\netcoreapp2.1\RnDOnMasterAndForkMerging.AssemblyInfo.cs
